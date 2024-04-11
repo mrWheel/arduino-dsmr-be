@@ -1,3 +1,9 @@
+Better use this library
+=======================
+
+[dsmr2Lib](https://github.com/mrWheel/dsmr2Lib)
+
+
 Arduino Belgium Smart Meter (DSMR 5.0) parser
 =============================================
 This library is a patched verion of the original and brilliant
